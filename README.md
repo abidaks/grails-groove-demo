@@ -61,10 +61,15 @@ URL
 http://localhost:8080/phoneNumbers/save
 ```
 Type: POST
-body as form data
+
+Body as form data
+
 variables:
+
 userId: user id
+
 activated: true/false
+
 phoneNumber: phoneNumber
 
 
