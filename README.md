@@ -1,4 +1,4 @@
-# Grails/Groove Demo
+# Grails/Groovy Demo
 This is a simple grails application.
 
 ## Setup and Run
