@@ -55,7 +55,7 @@ GET http://localhost:8080/phoneNumbers/getUserNumbers/[user_id]
 http://localhost:8080/phoneNumbers/activate/[phone_number]
 ```
 
-//Adding records
+Adding new records
 URL
 ```
 http://localhost:8080/phoneNumbers/save
