@@ -4,7 +4,7 @@ This is a simple grails application.
 ## Setup and Run
 
 ```
-> git clone https://github.com/abidaks/grails-groove-demo
+> git clone https://github.com/abidaks/grails-groovy-demo
 > grails run-app
 ```
 
